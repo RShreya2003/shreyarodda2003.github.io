@@ -69,7 +69,7 @@ Learned medical coding fundamentals with AIAO-BAR’s program.
 
 
 
-  ### TECHNICAL SKILLS
+### TECHNICAL SKILLS
 
 - MS Office
 
