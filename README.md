@@ -1,7 +1,7 @@
 # Biotechnology Student
 
 
-### Education
+### EDUCATION
 **SRM University**
 
 2023 - 2025
@@ -44,7 +44,7 @@ Percentage : 76%
 
 
 
-### Certifications and Internships
+### CERTIFICATIONS AND INTERNSHIPS
 **Variant Genetics**
 - Molecular biology and bioinformatics techniques
 
@@ -63,6 +63,44 @@ Gained hands-on exposure to cutting-edge food packaging technologies at the Indi
 Learned medical coding fundamentals with AIAO-BAR’s program.
 
 
-### Volunteering
+### VOLUNTEERING
 - Volunteered at International Conclave on ‘One Health: AMR”
 - Volunteered at Foldoscope Workshop
+
+
+
+  ### TECHNICAL SKILLS
+
+- MS Office
+
+- R language
+
+- Linux
+
+- Homology Modelling
+
+- Molecular Docking
+
+
+
+### SOFT SKILLS
+
+- Communication
+
+- Creative thinker
+
+- Teamwork
+
+- Active listener
+
+- Leadership
+
+
+
+### LANGUAGES
+
+- English
+
+- Telugu
+
+- Hindi
