@@ -2,8 +2,11 @@
 
 ### Education
 **SRM University**
+
 2023 - 2025
+
 Master of Science
+
 Molecular biology and Biotechnology
 
 
