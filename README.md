@@ -104,3 +104,19 @@ Learned medical coding fundamentals with AIAO-BAR’s program.
 - Telugu
 
 - Hindi
+
+
+
+### HOBBIES & INTERESTS
+
+- Painting
+
+- Reading
+
+- Photography
+
+- Sports
+
+- Graphic design
+
+- Digital art
