@@ -4,20 +4,15 @@
 **SRM University**
 
 2023 - 2025
-
 Master of Science
-
 Molecular biology and Biotechnology
 
 
 **St.Ann's College for Women**
 
 2020 - 2023
-
 Bachelor of Science
-
 Biotechnology, Biochemistry, Chemistry
-
 CGPA : 7.8
 
 
@@ -28,12 +23,10 @@ CGPA : 9.2
 
 
 **Sri Prakash Vidyaniketan**
-
 2017 - 2018
-
 Matriculation
-
 Percentage : 76%
+
 
 ### Certifications and Internships
 **Variant Genetics**
